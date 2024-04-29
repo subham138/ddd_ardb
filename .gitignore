@@ -1,0 +1,13 @@
+*.zip
+/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+*.DS_Store
+*Thumbs.db
+*.bak
+.hg/*
+*.sublime-project
+*.sublime-workspace
